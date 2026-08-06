@@ -3,7 +3,7 @@ import time
 from openai import OpenAI
 from tqdm import tqdm
 
-client = OpenAI(api_key="sk-proj-ALJj6LIQqZVp1wbQFKwFT3BlbkFJYwJw26yTw65BSTh0GFKs")
+client = OpenAI(api_key="sk-***")
 
 log_path = "./log/"
 log_file = ""
